@@ -1,0 +1,77 @@
+[
+  {
+    "name": "مطعم الملك فاروق",
+    "address": "شارع سعد زغلول، بنها",
+    "phone": "0133261234",
+    "cuisine": "مصري تقليدي",
+    "rating": 4.5,
+    "price_range": "متوسط",
+    "specialties": [
+      "الكباب",
+      "الكفتة",
+      "المشويات"
+    ],
+    "description": "مطعم تراثي يقدم أشهى الأكلات المصرية الأصيلة",
+    "image": "/images/restaurants/king_farouk.jpg"
+  },
+  {
+    "name": "L'angoletto",
+    "address": "بنها الجديدة، القليوبية",
+    "phone": "0133267890",
+    "cuisine": "إيطالي",
+    "rating": 4.3,
+    "price_range": "مرتفع",
+    "specialties": [
+      "البيتزا",
+      "الباستا",
+      "الريزوتو"
+    ],
+    "description": "مطعم إيطالي أصيل يقدم أطباق البحر المتوسط",
+    "image": "/images/restaurants/langoletto.jpg"
+  },
+  {
+    "name": "مطعم كفتجي",
+    "address": "شارع الجلاء، بنها",
+    "phone": "0133264567",
+    "cuisine": "مشويات",
+    "rating": 4.4,
+    "price_range": "متوسط",
+    "specialties": [
+      "الكفتة",
+      "الحواوشي",
+      "الشيش طاووق"
+    ],
+    "description": "متخصص في المشويات والكفتة الطازجة",
+    "image": "/images/restaurants/koftegy.jpg"
+  },
+  {
+    "name": "كافيه سو فريش",
+    "address": "بنها الجديدة، القليوبية",
+    "phone": "0133268901",
+    "cuisine": "مقهى",
+    "rating": 4.1,
+    "price_range": "اقتصادي",
+    "specialties": [
+      "القهوة المختصة",
+      "العصائر الطبيعية",
+      "الحلويات"
+    ],
+    "description": "مقهى عصري يقدم أجود أنواع القهوة والمشروبات",
+    "image": "/images/restaurants/so_fresh.jpg"
+  },
+  {
+    "name": "Sky Food Court",
+    "address": "النادي الرياضي، بنها",
+    "phone": "0133269012",
+    "cuisine": "متنوع",
+    "rating": 4.0,
+    "price_range": "متوسط",
+    "specialties": [
+      "الوجبات السريعة",
+      "المأكولات الآسيوية",
+      "البرجر"
+    ],
+    "description": "فود كورت متنوع يضم عدة مطاعم تحت سقف واحد",
+    "image": "/images/restaurants/sky_food_court.jpg"
+  }
+]

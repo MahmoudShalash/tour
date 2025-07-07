@@ -1,0 +1,574 @@
+[
+  {
+    "name": "قصر محمد علي باشا",
+    "description": "تحفة معمارية فريدة تجمع بين الطرازين العثماني والأوروبي، بُني على مراحل استمرت 13 عاماً من 1808 إلى 1821م. يقع على مساحة 50 فداناً ويتميز بطراز قصور الحدائق التركية. أُعيد ترميمه وافتُتح كمركز عالمي للاستضافة عام 2005.",
+    "image": "/images/mohamed_ali_palace.jpg",
+    "category": "تراثية",
+    "rating": 4.8,
+    "reviews": 127,
+    "location": "شبرا الخيمة",
+    "history": "اختار محمد علي باشا هذا الموقع عام 1809م ليكون قصراً للراحة بعيداً عن مشاغل السياسة. سقط سقف القصر بعد انتهاء بنائه في مايو 1809 فأُعيد بناؤه. أشرف على الإنشاء مشيد عمائره ذو الفقار كتخدا.",
+    "architecture": "يتكون من مساحة مستطيلة أبعادها 76.5 × 88.5 متر، طابق واحد، أربعة أبواب محورية، حجرات في الأركان تبرز كأبراج، وحوض وسطي بنافورة.",
+    "visiting_hours": "يومياً من 9 صباحاً حتى 5 مساءً",
+    "ticket_price": "50 جنيه للمصريين، 100 جنيه للأجانب"
+  },
+  {
+    "name": "قناطر محمد علي",
+    "description": "إنجاز هندسي عظيم في مجال الري وتطوير الزراعة، تُعتبر أول قناطر من نوعها في العالم. وُضع حجر الأساس عام 1843 في عهد محمد علي باشا وتم افتتاحها عام 1986.",
+    "image": "/images/mohamed_ali_barrages.jpg",
+    "category": "تراثية",
+    "rating": 4.8,
+    "reviews": 89,
+    "location": "القناطر الخيرية",
+    "history": "بدأ إنشاؤها محمد علي باشا عام 1843 واستُكملت في عهد سعيد باشا. تقع عند قمة الدلتا حيث يتفرع النيل لفرعي دمياط ورشيد.",
+    "technical_details": "تتكون من قناطر رشيد (61 فتحة) وقناطر دمياط (71 فتحة). عرض الفتحة الواحدة 5 أمتار. السعة الإجمالية 116 مليون متر مكعب.",
+    "importance": "أحدثت ثورة في نظام الري المصري وحولته من الري الحوضي إلى الري الدائم، مما مكّن من زراعة 3 محاصيل سنوياً.",
+    "visiting_hours": "يومياً من 8 صباحاً حتى 6 مساءً",
+    "ticket_price": "مجاناً للزيارة الخارجية"
+  },
+  {
+    "name": "مسجد السلطان الأشرف برسباي",
+    "description": "مسجد تاريخي يعكس روعة العمارة الإسلامية في العصر المملوكي، بُني عام 841 هجرية (1437م) بناءً على نذر من السلطان الأشرف برسباي.",
+    "image": "/images/barquq_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.8,
+    "reviews": 65,
+    "location": "الخانكة",
+    "history": "نذر السلطان الأشرف برسباي ببناء مسجد ومسقى بالخانقاة إن نصره الله. يُعرف بين أهل الخانكة بمسجد الأشرف ويضم تكية ومغتسل.",
+    "architecture": "يتكون من شكل مربع، واجهات أربع تحتوي على صفين من النوافذ (سفلية وعلوية)، كل صف يضم سبع نوافذ. يتميز بجمال الهندسة المملوكية.",
+    "religious_significance": "يُعتبر من أهم المساجد التاريخية في القليوبية ومركز ديني مهم لأهالي الخانكة.",
+    "visiting_hours": "مفتوح للصلاة والزيارة طوال اليوم",
+    "ticket_price": "مجاناً"
+  },
+  {
+    "name": "حدائق القناطر الخيرية",
+    "description": "حدائق خضراء واسعة تُعرف بـ'لؤلؤة الشرق'، تمتد على مساحة 66 فداناً وتضم 10 حدائق متنوعة مثالية للنزهات العائلية والاستجمام.",
+    "image": "/images/qanater_gardens.jpg",
+    "category": "ترفيهية",
+    "rating": 4.8,
+    "reviews": 203,
+    "location": "القناطر الخيرية",
+    "gardens": "تشمل حديقة لؤلؤة الشرق (13 فدان)، حديقة الياسمين، الحديقة النموذجية، حديقة النخيل، وحديقة التوفيق.",
+    "activities": "ركوب الدراجات، الأنشطة الرياضية، ملاعب خماسية، بحيرات صناعية، نافورة راقصة، ومتحف الري.",
+    "facilities": "مركز ثقافي، مكتبة كبرى، مطاعم ومقاهي، مناطق ألعاب للأطفال، ومناطق للشواء.",
+    "visiting_hours": "يومياً من 8 صباحاً حتى 10 مساءً",
+    "ticket_price": "5-15 جنيه حسب الحديقة"
+  },
+  {
+    "name": "فندق النيل الدولي",
+    "description": "فندق فاخر يوفر إقامة مريحة مع إطلالة رائعة على النيل.",
+    "image": "/images/nile_international_hotel.jpg",
+    "category": "فنادق",
+    "rating": 4.8,
+    "reviews": 156,
+    "location": "بنها"
+  },
+  {
+    "name": "متحف القليوبية الإقليمي",
+    "description": "متحف يضم مجموعة نادرة من الآثار والتحف التراثية للمحافظة، يحتوي على 14 ألف قطعة أثرية مستخرجة من المناطق الأثرية بالقليوبية.",
+    "image": "/images/qalyubia_museum.jpg",
+    "category": "ثقافية",
+    "rating": 4.8,
+    "reviews": 78,
+    "location": "يقع بجوار آثار تل اليهودية في بنها",
+    "collections": "آثار فرعونية ويونانية ورومانية من تل أتريب، قطع إسلامية من العصور المختلفة، ومخطوطات تاريخية نادرة.",
+    "importance": "يلعب دوراً محورياً في الحفاظ على التراث وتنمية الوعي المجتمعي وتعزيز السياحة الداخلية.",
+    "visiting_hours": "يومياً من 9 صباحاً حتى 4 مساءً (مغلق الجمعة)",
+    "ticket_price": "20 جنيه للمصريين، 60 جنيه للأجانب"
+  },
+  {
+    "name": "بنك مصر - فرع القليوبية",
+    "description": "فرع رئيسي لبنك مصر يوفر جميع الخدمات المصرفية.",
+    "image": "/images/banque_misr.jpg",
+    "category": "بنوك وخدمات ATM",
+    "rating": 4.8,
+    "reviews": 92,
+    "location": "بنها"
+  },
+  {
+    "name": "مطعم الأصالة المصرية",
+    "description": "مطعم يقدم أشهى الأطباق المصرية التقليدية في أجواء تراثية.",
+    "image": "/images/asala_restaurant.jpg",
+    "category": "مطاعم ومقاهي",
+    "rating": 4.8,
+    "reviews": 234,
+    "location": "بنها"
+  },
+  {
+    "name": "محطة القطار - بنها",
+    "description": "محطة رئيسية توفر خدمات النقل بالقطار لجميع أنحاء الجمهورية.",
+    "image": "/images/benha_train_station.jpg",
+    "category": "وسائل انتقال",
+    "rating": 4.8,
+    "reviews": 145,
+    "location": "بنها"
+  },
+  {
+    "name": "مراكز تسوق",
+    "description": "مجمع تجاري متكامل يضم متاجر متنوعة ومرافق ترفيهية.",
+    "image": "/images/shopping_centers.jpg",
+    "category": "مراكز تسوق",
+    "rating": 4.8,
+    "reviews": 189,
+    "location": "القليوبية"
+  },
+  {
+    "name": "تل أتريب وحمامات أتريب",
+    "description": "منطقة أثرية هامة تضم آثاراً فرعونية ويونانية ورومانية نادرة.",
+    "image": "/images/tel_atrib.jpg",
+    "category": "ثقافية",
+    "rating": 4.7,
+    "reviews": 156,
+    "location": "بنها"
+  },
+  {
+    "name": "كوبري كفر الجزار",
+    "description": "كوبري أثري تاريخي يربط ضفتي النيل ويعد معلماً هندسياً مميزاً.",
+    "image": "/images/kafr_el_gazzar_bridge.jpg",
+    "category": "تراثية",
+    "rating": 4.6,
+    "reviews": 89,
+    "location": "بنها"
+  },
+  {
+    "name": "مسجد الشيخ عواض",
+    "description": "مسجد تاريخي يحمل طابعاً معمارياً إسلامياً أصيلاً.",
+    "image": "/images/sheikh_awad_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.5,
+    "reviews": 67,
+    "location": "القليوبية"
+  },
+  {
+    "name": "التابوت الأثري بف ثيو أمون",
+    "description": "تابوت أثري نادر يعود للعصر الفرعوني ويحمل نقوشاً هيروغليفية مميزة.",
+    "image": "/images/pftheo_amon_sarcophagus.jpg",
+    "category": "ثقافية",
+    "rating": 4.4,
+    "reviews": 45,
+    "location": "القليوبية"
+  },
+  {
+    "name": "كورنيش النيل ببنها",
+    "description": "ممشى جميل على ضفاف النيل يوفر إطلالات خلابة ومناطق للاستجمام.",
+    "image": "/images/nile_corniche_benha.jpg",
+    "category": "ترفيهية",
+    "rating": 4.6,
+    "reviews": 198,
+    "location": "بنها"
+  },
+  {
+    "name": "حديقة عفلة",
+    "description": "حديقة واسعة مثالية للنزهات العائلية والاستجمام.",
+    "image": "/images/afala_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.5,
+    "reviews": 134,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "حديقة التوفيق",
+    "description": "حديقة جميلة تضم مساحات خضراء واسعة ومرافق ترفيهية متنوعة.",
+    "image": "/images/tawfik_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.4,
+    "reviews": 112,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "حديقة النخيل",
+    "description": "حديقة مميزة تتميز بأشجار النخيل الشاهقة والمناظر الطبيعية الخلابة.",
+    "image": "/images/palm_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.3,
+    "reviews": 98,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "مسجد الظاهر بيبرس",
+    "description": "مسجد أثري تاريخي يعود للعصر المملوكي ويتميز بعمارته الإسلامية الأصيلة.",
+    "image": "/images/zaher_baibars_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.7,
+    "reviews": 145,
+    "location": "قليوب"
+  },
+  {
+    "name": "مسجد الشواربي",
+    "description": "مسجد تاريخي يتميز بمئذنته المميزة وطابعه العثماني الأصيل.",
+    "image": "/images/shawarbi_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.6,
+    "reviews": 123,
+    "location": "قليوب"
+  },
+  {
+    "name": "مسجد الخازندار",
+    "description": "تحفة معمارية عمرها 97 عاماً تشهد على الوحدة الوطنية في شبرا.",
+    "image": "/images/khazindar_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.5,
+    "reviews": 87,
+    "location": "شبرا الخيمة"
+  },
+  {
+    "name": "كنيسة السيدة العذراء",
+    "description": "كنيسة تاريخية تتميز بعمارتها القبطية الأصيلة وأيقوناتها النادرة.",
+    "image": "/images/virgin_mary_church_benha.jpg",
+    "category": "ثقافية",
+    "rating": 4.6,
+    "reviews": 98,
+    "location": "بنها"
+  },
+  {
+    "name": "كنيسة مار جرجس",
+    "description": "كنيسة قبطية أرثوذكسية تاريخية تخدم المجتمع المسيحي في المنطقة.",
+    "image": "/images/mar_girgis_church_khosous.jpg",
+    "category": "ثقافية",
+    "rating": 4.5,
+    "reviews": 76,
+    "location": "الخصوص"
+  },
+  {
+    "name": "كنيسة البابا شنودة الثالث",
+    "description": "كنيسة حديثة تحمل اسم البابا شنودة الثالث وتقدم خدمات دينية متنوعة.",
+    "image": "/images/pope_shenouda_church.jpg",
+    "category": "ثقافية",
+    "rating": 4.4,
+    "reviews": 65,
+    "location": "شبرا الخيمة"
+  },
+  {
+    "name": "حديقة الطفل ببنها",
+    "description": "حديقة مخصصة للأطفال تضم ألعاباً متنوعة ومرافق ترفيهية آمنة.",
+    "image": "/images/children_garden_benha.jpg",
+    "category": "ترفيهية",
+    "rating": 4.5,
+    "reviews": 167,
+    "location": "بنها"
+  },
+  {
+    "name": "حديقة صقلية",
+    "description": "حديقة شهيرة في بنها تستقبل المئات من الزوار وتوفر أجواء ترفيهية مميزة.",
+    "image": "/images/sicily_garden_benha.jpg",
+    "category": "ترفيهية",
+    "rating": 4.4,
+    "reviews": 189,
+    "location": "بنها"
+  },
+  {
+    "name": "حديقة النافورة",
+    "description": "حديقة جميلة تتميز بنافورتها المميزة والمساحات الخضراء الواسعة.",
+    "image": "/images/fountain_garden_benha.jpg",
+    "category": "ترفيهية",
+    "rating": 4.3,
+    "reviews": 134,
+    "location": "بنها"
+  },
+  {
+    "name": "متحف الري",
+    "description": "متحف متخصص يعرض تاريخ الري في مصر من عهد الفراعنة حتى اليوم.",
+    "image": "/images/irrigation_museum.jpg",
+    "category": "ثقافية",
+    "rating": 4.6,
+    "reviews": 112,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "متحف علوم المياه التفاعلي",
+    "description": "متحف تفاعلي حديث يقدم معلومات شيقة عن علوم المياه والري.",
+    "image": "/images/water_science_museum.jpg",
+    "category": "ثقافية",
+    "rating": 4.5,
+    "reviews": 89,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "مسجد التوحيد بالعبور",
+    "description": "مسجد حديث يخدم سكان مدينة العبور ويتميز بتصميمه المعاصر.",
+    "image": "/images/tawheed_mosque_obour.jpg",
+    "category": "ثقافية",
+    "rating": 4.4,
+    "reviews": 76,
+    "location": "العبور"
+  },
+  {
+    "name": "مسجد القلوب الرحيمة",
+    "description": "مسجد يتميز بتصميمه الجميل ويقدم خدمات دينية واجتماعية متنوعة.",
+    "image": "/images/qoloub_rahima_mosque.jpg",
+    "category": "ثقافية",
+    "rating": 4.3,
+    "reviews": 65,
+    "location": "العبور"
+  },
+  {
+    "name": "مسجد زعزع بطوخ",
+    "description": "مسجد تاريخي في مدينة طوخ يخدم المجتمع المحلي منذ عقود.",
+    "image": "/images/zaazaa_mosque_toukh.jpg",
+    "category": "ثقافية",
+    "rating": 4.2,
+    "reviews": 54,
+    "location": "طوخ"
+  },
+  {
+    "name": "مسجد النور ببنها",
+    "description": "مسجد حديث في قلب مدينة بنها يتميز بتصميمه المعاصر.",
+    "image": "/images/nour_mosque_benha.jpg",
+    "category": "ثقافية",
+    "rating": 4.3,
+    "reviews": 67,
+    "location": "بنها"
+  },
+  {
+    "name": "مسجد الفتح بالقناطر",
+    "description": "مسجد يخدم سكان القناطر الخيرية ويتميز بموقعه المميز.",
+    "image": "/images/fateh_mosque_qanater.jpg",
+    "category": "ثقافية",
+    "rating": 4.2,
+    "reviews": 58,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "مسجد الرحمن بكفر شكر",
+    "description": "مسجد يخدم أهالي كفر شكر ويقدم خدمات دينية واجتماعية.",
+    "image": "/images/rahman_mosque_kafr_shukr.jpg",
+    "category": "ثقافية",
+    "rating": 4.1,
+    "reviews": 45,
+    "location": "كفر شكر"
+  },
+  {
+    "name": "كنيسة القديس أثناسيوس",
+    "description": "كنيسة قبطية تاريخية تخدم المجتمع المسيحي في قليوب.",
+    "image": "/images/athanasius_church_qaliub.jpg",
+    "category": "ثقافية",
+    "rating": 4.4,
+    "reviews": 67,
+    "location": "قليوب"
+  },
+  {
+    "name": "كنيسة السيدة العذراء بطنان",
+    "description": "كنيسة قبطية في قرية طنان تتميز بتاريخها العريق.",
+    "image": "/images/virgin_mary_church_tanan.jpg",
+    "category": "ثقافية",
+    "rating": 4.3,
+    "reviews": 54,
+    "location": "طنان"
+  },
+  {
+    "name": "كنيسة الأمير تادرس المشرقي",
+    "description": "كنيسة تاريخية في بهتيم تحمل اسم الأمير تادرس المشرقي.",
+    "image": "/images/tadros_church_bahteem.jpg",
+    "category": "ثقافية",
+    "rating": 4.2,
+    "reviews": 43,
+    "location": "بهتيم"
+  },
+  {
+    "name": "كنيسة المريمات",
+    "description": "كنيسة قبطية في القناطر الخيرية تخدم المجتمع المسيحي المحلي.",
+    "image": "/images/mariamat_church_qanater.jpg",
+    "category": "ثقافية",
+    "rating": 4.1,
+    "reviews": 38,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "كنيسة أبي سيفين ودميانة",
+    "description": "كنيسة في الخانكة تحمل اسم القديسين أبي سيفين ودميانة الشهيدة.",
+    "image": "/images/abi_sefein_church_khanka.jpg",
+    "category": "ثقافية",
+    "rating": 4.0,
+    "reviews": 32,
+    "location": "الخانكة"
+  },
+  {
+    "name": "كنيسة سانت تيريزا",
+    "description": "كنيسة كاثوليكية في شبرا الخيمة تخدم الطائفة الكاثوليكية.",
+    "image": "/images/saint_teresa_church.jpg",
+    "category": "ثقافية",
+    "rating": 4.2,
+    "reviews": 41,
+    "location": "شبرا الخيمة"
+  },
+  {
+    "name": "مركز الثقافة والفنون",
+    "description": "مركز ثقافي في بنها يقدم فعاليات فنية وثقافية متنوعة.",
+    "image": "/images/culture_arts_center.jpg",
+    "category": "ثقافية",
+    "rating": 4.3,
+    "reviews": 78,
+    "location": "بنها"
+  },
+  {
+    "name": "مكتبة مصر العامة",
+    "description": "مكتبة عامة حديثة في بنها تضم مجموعة كبيرة من الكتب والمراجع.",
+    "image": "/images/egypt_public_library.jpg",
+    "category": "ثقافية",
+    "rating": 4.4,
+    "reviews": 89,
+    "location": "بنها"
+  },
+  {
+    "name": "قصر الثقافة بشبين القناطر",
+    "description": "قصر ثقافي يقدم فعاليات ثقافية وفنية لأهالي شبين القناطر.",
+    "image": "/images/culture_palace_shebeen.jpg",
+    "category": "ثقافية",
+    "rating": 4.2,
+    "reviews": 65,
+    "location": "شبين القناطر"
+  },
+  {
+    "name": "حديقة الجزيرة الوسطى",
+    "description": "حديقة مميزة تقع في وسط بنها وتوفر مساحات خضراء واسعة.",
+    "image": "/images/central_island_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.2,
+    "reviews": 68,
+    "location": "بنها"
+  },
+  {
+    "name": "حديقة نادي بنها",
+    "description": "حديقة تابعة لنادي بنها الرياضي تضم مرافق ترفيهية متنوعة.",
+    "image": "/images/benha_club_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.1,
+    "reviews": 59,
+    "location": "بنها"
+  },
+  {
+    "name": "حديقة المسلة",
+    "description": "حديقة تضم مسلة تذكارية ومساحات خضراء للنزهات العائلية.",
+    "image": "/images/obelisk_garden.jpg",
+    "category": "ترفيهية",
+    "rating": 4.2,
+    "reviews": 64,
+    "location": "القليوبية"
+  },
+  {
+    "name": "حديقة ومنتزه الخانكة",
+    "description": "منتزه واسع في الخانكة يضم مرافق ترفيهية متكاملة.",
+    "image": "/images/khanka_park.jpg",
+    "category": "ترفيهية",
+    "rating": 4.2,
+    "reviews": 66,
+    "location": "الخانكة"
+  },
+  {
+    "name": "حديقة الأسرة",
+    "description": "حديقة عائلية في طوخ تناسب جميع أفراد الأسرة.",
+    "image": "/images/family_garden_toukh.jpg",
+    "category": "ترفيهية",
+    "rating": 4.1,
+    "reviews": 55,
+    "location": "طوخ"
+  },
+  {
+    "name": "قنطرة الظاهر بيبرس",
+    "description": "قنطرة أثرية تاريخية تحمل اسم السلطان الظاهر بيبرس.",
+    "image": "/images/baibars_bridge.jpg",
+    "category": "تراثية",
+    "rating": 4.1,
+    "reviews": 54,
+    "location": "قليوب"
+  },
+  {
+    "name": "مول الجوهرة",
+    "description": "مجمع تجاري في القليوبية يوفر تجربة تسوق مميزة.",
+    "image": "/images/gawahara_mall.jpg",
+    "category": "مراكز تسوق",
+    "rating": 4.2,
+    "reviews": 134,
+    "location": "القليوبية"
+  },
+  {
+    "name": "نادي القناطر الرياضي",
+    "description": "نادي رياضي في القناطر الخيرية يقدم أنشطة متنوعة.",
+    "image": "/images/qanater_sports_club.jpg",
+    "category": "ترفيهية",
+    "rating": 4.0,
+    "reviews": 92,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "نادي طوخ الاجتماعي",
+    "description": "نادي اجتماعي في طوخ يقدم أنشطة ترفيهية واجتماعية.",
+    "image": "/images/toukh_social_club.jpg",
+    "category": "ترفيهية",
+    "rating": 3.7,
+    "reviews": 68,
+    "location": "طوخ"
+  },
+  {
+    "name": "جزيرة الدهب",
+    "description": "جزيرة طبيعية جميلة في النيل تتميز بمناظرها الخلابة.",
+    "image": "/images/dahab_island.jpg",
+    "category": "ترفيهية",
+    "rating": 4.2,
+    "reviews": 134,
+    "location": "النيل"
+  },
+  {
+    "name": "شاطئ الجزيرة",
+    "description": "شاطئ نيلي جميل يوفر أجواء استجمام مميزة.",
+    "image": "/images/island_beach.jpg",
+    "category": "ترفيهية",
+    "rating": 4.1,
+    "reviews": 112,
+    "location": "النيل"
+  },
+  {
+    "name": "منطقة المراسي",
+    "description": "منطقة مراسي القوارب والمراكب النيلية في بنها.",
+    "image": "/images/marinas_area.jpg",
+    "category": "ترفيهية",
+    "rating": 4.0,
+    "reviews": 98,
+    "location": "بنها"
+  },
+  {
+    "name": "محمية الطيور المائية",
+    "description": "محمية طبيعية للطيور المائية في منطقة القناطر.",
+    "image": "/images/water_birds_reserve.jpg",
+    "category": "ترفيهية",
+    "rating": 4.2,
+    "reviews": 123,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "أكاديمية الفنون",
+    "description": "أكاديمية متخصصة في تعليم الفنون في الخانكة.",
+    "image": "/images/arts_academy.jpg",
+    "category": "ثقافية",
+    "rating": 4.1,
+    "reviews": 92,
+    "location": "الخانكة"
+  },
+  {
+    "name": "مركز المؤتمرات",
+    "description": "مركز حديث للمؤتمرات والفعاليات في القناطر الخيرية.",
+    "image": "/images/conference_center.jpg",
+    "category": "ثقافية",
+    "rating": 4.1,
+    "reviews": 98,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "محلج القطن التاريخي",
+    "description": "أقدم محلج قطن في العالم والشرق الأوسط في القناطر الخيرية.",
+    "image": "/images/historic_cotton_gin.jpg",
+    "category": "تراثية",
+    "rating": 4.3,
+    "reviews": 167,
+    "location": "القناطر الخيرية"
+  },
+  {
+    "name": "قاعة المناسبات الكبرى",
+    "description": "قاعة كبيرة للمناسبات والاحتفالات في بنها.",
+    "image": "/images/grand_events_hall.jpg",
+    "category": "ترفيهية",
+    "rating": 4.1,
+    "reviews": 145,
+    "location": "بنها"
+  }
+]
